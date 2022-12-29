@@ -1,0 +1,16 @@
+:root{
+    --font-fam: 'Proxima Nova', sans-serif;
+    --font-wt-400: 400;
+    --font-wt-600: 600;
+    --font-wt-700: 700;
+
+
+    --text-color-wt:#ffffff;
+    --text-color-bk:#000000;
+
+    --bg-btn:#E58D35;
+    --border-radius-btn:90px;
+
+    --font-size-fsc-title:56px;
+    --font-size-fsc-desc:20px;
+}

@@ -1,0 +1,36 @@
+a{
+    color: var(--text-color-wt);
+}
+.site-nav{
+    max-width: 1188px;
+    padding: 12px;
+    margin: 25px auto 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    align-items: center;
+}
+.menu ul{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu ul li{
+    display: flex;
+}
+.menu ul li a{
+    color: var(--text-color-wt);
+    font-weight: var(--font-wt-400);
+}
+.menu .button{
+    display: flex;
+    padding:14px 27px;
+    font-size: 15px;
+   
+}
+.menu .btn{
+    margin-left: 98px;
+}
